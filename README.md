@@ -1,26 +1,19 @@
-# Hello, I’m Mostofa 👋
+# Hi, I’m Mostofa 👋  
+Aspiring Frontend Developer learning real-world web technologies and building meaningful projects.
 
-I’m a lifelong learner, passionate reader, thoughtful blogger, and strategic marketer. Fueled by curiosity and creativity, I explore fresh ideas and refine my skills every day.
+## 🧰 Skills
+HTML · CSS · Responsive Design · JavaScript · Git · GitHub
 
----
+## 🗂 Learning Projects
+🔗 Responsive Web Design — https://github.com/mhdmostofakamal/responsive-web-design
 
-## 🌱 What Drives Me  
-- **Continuous Learning:** Diving into books, courses, and experiments to stay ahead of the curve.  
-- **Impactful Storytelling:** Crafting blog posts that engage, inform, and inspire action.  
-- **Data-Driven Marketing:** Designing and executing campaigns that deliver measurable results.  
-- **Collaborative Growth:** Building connections, exchanging feedback, and celebrating wins together.
-
----
-
-## 🚀 Current Endeavors  
-- **Blog:** Sharing insights on education, skills, technology, etc. —from in-depth analyses to practical how‑tos.  
-- **Projects:** Developing own blog website projects, Ed-Tech Projects and leveraging technologies or methodologies.
-- **Community:** Contributing to open-source initiatives and participating in industry forums.
+## 📈 Learning Path
+freeCodeCamp → Programming Hero → Projects → Deployment
 
 ---
 
 ## 📫 Let’s Connect  
-I’m always excited to connect with fellow creators and professionals. Feel free to:
+I’m always excited to connect with fellow developers and professionals. Feel free to:
 - Explore my repositories  
 - Drop me a message at [mhdmostofakamal@outlook.com]  
 - Follow me on [LinkedIn](https://www.linkedin/in/mhdmostofakamal) | [Twitter](https://www.twitter.com/mhdmostofakamal) | [Instagram](https://www.instagram.com/mhdmostofakamal)
